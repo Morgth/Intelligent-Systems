@@ -33,4 +33,4 @@ Note:
 
 IEEE format papers order references by order of appearance, not alphabetically.
 Yet since the Intelligent Systems module leader instructed to write references alphabetically in 
-the academic writing guide for this module, that is how referenced are ordered in my paper.
+the academic writing guide for this module, that is how references are ordered in my paper.
