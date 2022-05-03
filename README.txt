@@ -17,6 +17,8 @@ alexNet = alexNetLayers(trainAlex, validationAlex, testAlex)
 The link bellow is a download link for the pretained models used in the assessment. Networks1,2,3 
 are in order as were talked about in the research paper.
 
+I made the download link of the trained models because their size was too large to push into github.
+
 Network1 - 100 epochs with the original architecture.
 Network2 - additional conv layer and slightly adjusted architecture parameters, still trained over 100 epochs.
 Network3 - reduced epochs to 40. same architecture as Network2. Adjusted options.
