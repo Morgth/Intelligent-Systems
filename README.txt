@@ -29,8 +29,11 @@ http://unn-w20036800.newnumyspace.co.uk/downloadModels.html
 
 _______________________________________________________________________________________________________________
 
-Note:
+Notes:
 
-IEEE format papers order references by order of appearance, not alphabetically.
+1) IEEE format papers order references by order of appearance, not alphabetically.
 Yet since the Intelligent Systems module leader instructed to write references alphabetically in 
 the academic writing guide for this module, that is how references are ordered in my paper.
+
+2) If the download link is not working, that means that the northumbria service of newNuMySpace.co.uk is down.
+If that's the case attempt using this link at a later time.
