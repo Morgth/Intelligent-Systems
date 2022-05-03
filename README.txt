@@ -25,3 +25,12 @@ Network3 - reduced epochs to 40. same architecture as Network2. Adjusted options
 alexNet - model which was trained over 10 epochs, not the initially attempted 6.
 
 http://unn-w20036800.newnumyspace.co.uk/downloadModels.html
+
+
+_______________________________________________________________________________________________________________
+
+Note:
+
+IEEE format papers order references by order of appearance, not alphabetically.
+Yet since the Intelligent Systems module leader instructed to write references alphabetically in 
+the academic writing guide for this module, that is how referenced are ordered in my paper.
